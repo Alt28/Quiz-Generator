@@ -1,5 +1,0 @@
-flask
-spacy
-pdfplumber
-python-docx
-python-pptx

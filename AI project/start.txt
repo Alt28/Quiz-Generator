@@ -1,2 +1,0 @@
-cd "c:\Users\clarence\Downloads\AI project"
-python CLARKO.py
