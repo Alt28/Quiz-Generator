@@ -1,0 +1,6 @@
+flask
+gunicorn
+spacy
+pdfplumber
+python-docx
+python-pptx
